@@ -1,0 +1,19 @@
+[project]
+name = "blog_app"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Sam", email = "asamadans@gmail.com"},
+]
+dependencies = [
+    "django>=5.0.1",
+    "django-crispy-forms>=2.1",
+    "Pillow>=10.2.0",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+package-type = "application"
