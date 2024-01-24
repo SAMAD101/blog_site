@@ -1,1 +1,1 @@
-# blog_app
+This is a simple blog app built using Django, and Postgresql. This was made as a means to become better at Django, to design and work with some complex models, views, user management and routes, and some other features like pagination.
